@@ -26,8 +26,8 @@ The application allows users to:
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://learn.zone01oujda.ma/git/mmihit/ascii-art-web-dockerize
-    cd ascii-art-web-dockersize
+    git clone https://learn.zone01oujda.ma/git/aelidris/ascii-art-web-export-file
+    cd ascii-art-web-export-file
     ```
 
 2. **Install Dependencies:**
